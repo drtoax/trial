@@ -1,1 +1,62 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SITE_ID_2G": "B0006",
+        "SITE_ID_3G": "U0006",
+        "SITE_ID_4G": "L0006",
+        "TX_SITE_ID": "NA",
+        "TYPE": "2G & 3G & 4G",
+        "REGION": "REGION 1",
+        "VENDOR_2G": "HUAWEI",
+        "VENDOR_3G": "HUAWEI",
+        "VENDOR_4G": "HUAWEI",
+        "BSC": "CABH45",
+        "RNC": "CARH103",
+        "EMS": "",
+        "AREA": "",
+        "STATE": "AKWA IBOM",
+        "BCCH": "GSM900",
+        "TRX_CONFIG_900": "222",
+        "TRX_CONFIG_1800": "NA",
+        "OLD_LAT": "",
+        "OLD_LONG": "",
+        "OSS_DEF_DATE": "",
+        "BTS_PAT_DATE": "",
+        "BTS_ONAIR_DATE": "",
+        "NODEB_ONAIR_DATE": "",
+        "LTE_ONAIR_DATE": "",
+        "BB_PAT_DATE": "",
+        "SWAP_DATE": "",
+        "OP_STATUS_2G": "ON AIR",
+        "OP_STATUS_3G": "ON AIR",
+        "OP_STATUS_4G": "ON AIR",
+        "COMMENTS": "",
+        "STATUS": "",
+        "BTS_TX_PHASE": "",
+        "NODEB_TX_PHASE": "BTS/TX: 34 Reloc Project",
+        "LTE_TX_PHASE": "NODEB /TX: U10",
+        "TX_CLASS": "BTS Only",
+        "CONN_TYPE": "MICROWAVE",
+        "SITE_CAT": "",
+        "SITE_TYPE1": "NA",
+        "COLO_PROVDR": "",
+        "COLO_ID": "AK0388",
+        "OLD_COLO_ID": "NA",
+        "SITE_TYPE2": "ATC",
+        "EMTS_HOSTING": "NA",
+        "HOSTED_SITE_ID": "NA",
+        "ADDR": "Nnung Obio Enang Idoro Uyo Akwa Ibom State."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.877,
+          5.032
+        ]
+      }
+    }
+  ]
+}
